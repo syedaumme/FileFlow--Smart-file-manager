@@ -1,0 +1,28 @@
+1...what is class? how do we define a class? how to institate the class n the members are accessed?
+2....explain int method() and str method() with example
+3....write a program to create a class called point with two attribute x and y.write the following function and 
+     demonstrte the working of these function with example
+ 
+to read attribute value(x,y)
+display the point as a ordered paired(x.p,y.p)
+to find the distance between two points(p1 x,p2.y)
+to find the midpoint of two points(x,y)
+to find the reflex of the point about x-axis that is it return the new point object.reflex x must be return a new point
+
+4.differentaite between pure function and modify with  example
+write a program to create a rectangle with corner point with height write the following function and demonstaste working
+
+1.to find n display set of recatnagle
+2.to display point as ordered pair
+3.to resize recantgle
+4.to find area and perimeter idf rectangle
+
+6th...explain with the snippet of object state anf object expression and object returns
+7th....define web scrapping exaplin the snippet  how  downloaded file to hardware with request module from python
+8th ..exzplin with deatails how to pass HTML with beautiful soup..
+9th...how do u work with excel spredsheet ..write a python code n verify ouput
+10th...what is csv and json file with explain with exanple porgram the useage of json module in python
+11th..write the progarm to get the list of all filesextension  with the current file directpry and sort them
+12..write a python code  on dot csv and dot json dot pdf extension and beautiful soup
+
+
